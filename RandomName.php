@@ -2,8 +2,7 @@
 /**
  * RandomName can generate a list or singular name based on certain parameters specified by the constructor method
  * 
- * @author Thomas Norberg <tnorberg@thomasnorberg.com>
- * @package MilTech
+ * @author tnory56
  *
  */
 class RandomName {
