@@ -1,4 +1,4 @@
 RandomNames
 ===========
 
-A Class that uses data from census to generate random names
+A Class that uses data from http://www.census.gov to generate random names
